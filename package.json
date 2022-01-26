@@ -16,12 +16,12 @@
     "react-dom": "^17.0.2"
   },
     "resolutions": {
-      "node-fetch": "3.2.0",
+      "node-fetch": "2.6.7",
       "trim": "1.0.1",
       "trim-off-newlines": "1.0.3"
     },
     "devDependencies": {
-      "node-fetch": "3.2.0",
+      "node-fetch": "2.6.7",
       "trim": "1.0.1",
       "trim-off-newlines": "1.0.3"
     }
